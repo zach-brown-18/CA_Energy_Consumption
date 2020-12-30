@@ -2,7 +2,7 @@
 
 As California forces rolling blackouts on its constituents, we must look at two sources of aggravation to the power grid. Firstly, California's power source must be questioned with particular focus on the stability of this source. Secondly, the consumption habits of each county must be questioned. This second point guides us in choosing counties to concentrate energy reform.
 
-This project is a brief look into the second issue: energy consuption by county. This brief look may lead to further evaluation into which counties should be targeted to decrease overall energy expenditure in CA.
+This project is a brief look into the second issue: energy consumption by county. This brief look may lead to further evaluation into which counties should be targeted to decrease overall energy expenditure in CA.
 
 ## The Data
 
@@ -29,7 +29,7 @@ The top 10 counties dwarf the rest.
 
 ![map per person](images/map_per_person.png)
 
-The map of energy consumption per person is nearly inverted from the map of total consumption by county. This map implies that factors other that total consuption should be considered in which counties should be targeted to decrease overall energy expenditure in CA.
+The map of energy consumption per person is nearly inverted from the map of total consumption by county. This map implies that factors other than total consumption should be considered when choosing which counties may decrease overall energy expenditure in CA.
 
 ![residential vs industry](images/residential_industry_comparison.png)
 
